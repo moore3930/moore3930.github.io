@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![My cat Yang and Me](images/moore_and_cat.jpg "cat")
+![My cat Yang and Me](images/moore_and_cat_total.jpg "cat")
 
 Hey, you! Welcome to my homepage.
 
@@ -19,7 +19,7 @@ I worked at *Alibaba* as an algorithm engineer from 2018 to 2019. My main job is
 make *Taobao* recommendation works better. Before that I got my MS degree from *Peking University*. I have also spent
 some fun time interning at *XiaoIce Group, Microsoft, Beijing (2017-2018)*.
 
-My research interests lies within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation. 
+My research interests lies within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation.
 
 **NEW:** Actively seeking for Ph.D. opportunities starting from 2021 Fall.
 
