@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![My cat Yang and Me](images/moore_and_cat.jpg "cat")
+
 Hey, you! Welcome to my homepage.
 
 Who am I
