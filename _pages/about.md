@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Hey you, Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,6 @@ redirect_from:
 
 ![My cat Yang and Me](images/moore_and_cat_total.jpg "cat")
 
-Hey, you! Welcome to my homepage.
 
 Who am I
 ======
