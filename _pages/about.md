@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![My cat Yang and Me](images/moore_and_cat_total.jpg "cat")
+<div align=center>![My cat Yang and Me](images/moore_and_cat_total.jpg "cat")
+<img src="images/moore_and_cat_total.jpg" width = "100" height = "100" div align=right />
 
 
 Who am I
