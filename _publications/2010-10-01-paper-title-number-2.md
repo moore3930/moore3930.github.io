@@ -1,9 +1,9 @@
 ---
 title: "SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
-venue: 'EMNLP 2020'
-citation: 'Di, Wu. (2020).  <i>EMNLP 2020</i>.'
+permalink: /publication/2020
+venue: 'EMNLP'
+
 ---
 
 Slot filling and intent detection are two main tasks in spoken language understanding (SLU) system. In this paper, 
