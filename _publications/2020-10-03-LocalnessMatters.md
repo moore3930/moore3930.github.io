@@ -1,11 +1,11 @@
 ---
-title: "SLocalness Matters: The Evolved Cross-Attention for Non-Autoregressive Translation"
+title: "Localness Matters: The Evolved Cross-Attention for Non-Autoregressive Translation"
 collection: publications
-permalink: /publication/2020
+permalink: /publication/2020-10-03
 venue: 'COLING'
 ---
-[paper](https://arxiv.org/pdf/2010.02693.pdf)
-[code](https://github.com/moore3930/SlotRefine)
+[paper](https:???)
+[code](https:???)
 
 ---
 *ABSTRACT*

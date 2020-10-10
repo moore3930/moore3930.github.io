@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Word Alignment via Cross-lingual Contrastive Learning"
 collection: publications
-permalink: /publication/2020
+permalink: /publication/2020-10-02
 venue: 'ICLR'
 ---
 [paper](https://openreview.net/attachment?id=tq_ClRYQsBi&name=pdf)

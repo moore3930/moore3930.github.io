@@ -1,7 +1,7 @@
 ---
 title: "SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling"
 collection: publications
-permalink: /publication/2020
+permalink: /publication/2020-10-01
 venue: 'EMNLP'
 ---
 [paper](https://arxiv.org/pdf/2010.02693.pdf)
