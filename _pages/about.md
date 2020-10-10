@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About me 1
 ======
 Hi, thanks for your attention!
 
