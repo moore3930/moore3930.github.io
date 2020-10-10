@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/2020
 venue: 'EMNLP'
 
----
-
-test
+[Download paper here](https://arxiv.org/pdf/2010.02693.pdf)
 
 ---
 Slot filling and intent detection are two main tasks in spoken language understanding (SLU) system. In this paper, 
