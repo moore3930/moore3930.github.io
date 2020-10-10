@@ -3,9 +3,8 @@ title: "SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection a
 collection: publications
 permalink: /publication/2020
 venue: 'EMNLP'
-
 ---
-[Download paper here](https://arxiv.org/pdf/2010.02693.pdf)
+[paper](https://arxiv.org/pdf/2010.02693.pdf)
 [code](https://github.com/moore3930/SlotRefine)
 
 ---
@@ -16,4 +15,3 @@ independence of non-autoregressive model. Experiments demonstrate that our model
 models in slot filling task, while considerably speeding up the decoding (up to $\times$10.77). In-depth analyses show 
 that 1) pretraining schemes could further enhance our model; 2) two-pass mechanism indeed remedy the uncoordinated slots.
 
-[Download paper here](https://arxiv.org/pdf/2010.02693.pdf)
