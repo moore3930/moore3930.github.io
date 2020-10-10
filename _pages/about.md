@@ -22,7 +22,7 @@ recommendation system works better. Before that, I had also spent some fun time 
 I got my MS degree from the [*EECS*](https://eecs.pku.edu.cn/Home/HOME.htm) at 
 [*Peking University*](http://english.pku.edu.cn/) in 2018. 
 
-My main interests lies within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation.
+My main interests lie within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation.
 
 **NEW:** Actively seeking for Ph.D. opportunities starting from 2021 Fall. 
 
