@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About me"
-#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +18,7 @@ make *Taobao* recommendation system works better. Before that I got my MS degree
 
 I have also spent some fun time interning at *XiaoIce Group, Microsoft, Beijing (2017-2018)*.
 
-My research interests lies within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation.
+My main interests lies within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation.
 
-**NEW:** Actively seeking for Ph.D. opportunities starting from 2021 Fall.
+**NEW:** Actively seeking for Ph.D. opportunities starting from 2021 Fall. 
 
