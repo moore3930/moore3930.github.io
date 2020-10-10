@@ -8,6 +8,8 @@ venue: 'ICLR'
 [code](https://github.com/ICLR20anonymous/mirroralign)
 
 ---
+*ABSTRACT*
+
 Word alignment is essential for the down-streaming cross-lingual language understanding and generation tasks. 
 Recently, the performance of the neural word alignment models~\citep{zenkel2020end,garg2019jointly,koehn2019saliency} 
 has exceeded that of statistical models. However, they heavily rely on sophisticated translation models. In this study, 

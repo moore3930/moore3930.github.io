@@ -9,6 +9,7 @@ venue: 'COLING'
 
 ---
 *ABSTRACT*
+
 Non-autoregressive translation (NAT) significantly accelerates the inference process via predicting the entire target 
 sequence. However, due to the lack of autoregressive factorization, it is difficult for the decoder to adequately 
 capture the source contexts. To response this problem, we propose a novel evolved cross-attention for the NAT decoder 
