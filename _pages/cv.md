@@ -11,46 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in EECS, Peking University, 2018
+* B.S. in CS, Hefei University of Technology, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020 - now: [*DuerOS*](https://dueros.baidu.com/en/index.html), [*Baidu*](https://www.baidu.com/)
+  * designed and built a fast non-autoregressive model for joint intent detection and slot filling, named 
+  [*SlotRefine*](https://arxiv.org/pdf/2010.02693.pdf), which achieves better performance and efficiency for online
+  [*DuerOS*](https://dueros.baidu.com/en/index.html) system.
+  * Now, I focus on how to build a robust flat semantic pasring (e.g. Slot Filling) system to help DuerOS be 
+  less disturbed by noise.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2018 - Fall 2019: Searching & Recommendation Group, [*Alibaba*](https://www.alibabagroup.com/en/global/home)
+  * Designed and built a distributed deep learning tool, named DeepI2I, to extract item embeddings for 
+  [*Taobao*](https://www.taobao.com/)  which is the largest e-commerce platform in China and has more than 3 billions 
+  various commodities. DeepI2I works great and helps with recommendation tasks in other subsidiaries of Alibaba.
+  * Integrated GCN technology into a transformer architecture to improve ranking results of the recommendation system.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
