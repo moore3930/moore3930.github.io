@@ -25,7 +25,7 @@ Work experience
 
 * *Summer 2018 - Fall 2019: Algorithm Engineer, Searching & Recommendation Group, Alibaba, Beijing*
   * Designed and built a distributed deep learning tool, named DeepI2I, to extract item embeddings for 
-  [*Taobao*](https://www.taobao.com/)  which is the largest e-commerce platform in China and has more than 3 billions 
+  [*Taobao*](https://www.taobao.com/), which is the largest e-commerce platform in China and has more than 3 billions 
   various commodities. DeepI2I works great and helps with recommendation tasks in other subsidiaries of Alibaba.
   * Integrated GCN technology into a transformer architecture to improve ranking results of the recommendation system.
  
