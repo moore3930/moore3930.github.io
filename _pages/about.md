@@ -19,7 +19,7 @@ At that time, my main job was to design deep learning algorithms to make [*Taoba
 recommendation system works better. Before that, I had also spent some fun time interning at
 *XiaoIce Group, Microsoft, Beijing (2017-2018)*.
 
-I got my MS degree from the [*EECS*](https://eecs.pku.edu.cn/Home/HOME.htm) at 
+I got my M.S. degree from the [*EECS*](https://eecs.pku.edu.cn/Home/HOME.htm) at 
 [*Peking University*](http://english.pku.edu.cn/) in 2018. 
 
 My main interests lie within Natural Language Processing, such as Cross-lingual Word Emebddings and Machine Translation.
