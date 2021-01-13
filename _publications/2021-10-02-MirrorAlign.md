@@ -2,10 +2,10 @@
 title: "Unsupervised Word Alignment via Cross-lingual Contrastive Learning"
 collection: publications
 permalink: /publication/2021-10-02
-venue: 'ICLR'
+venue: 'UNDER REVIEW'
 ---
-[paper](https://openreview.net/attachment?id=tq_ClRYQsBi&name=pdf)
-[code](https://github.com/ICLR20anonymous/mirroralign)
+[paper](-)
+[code](-)
 
 ---
 *ABSTRACT*
