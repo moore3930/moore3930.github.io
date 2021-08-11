@@ -11,12 +11,15 @@ Thanks for your attention.
 
 My name is Di Wu 吴迪
 
-I have three years of work experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
+I have three years of industrial experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
 Baidu (2019-2020), and Microsoft (Now). I mainly focus on Natural Language Processing and Computational Advertising.
 
 Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
-I persue the fundamental principles of human language through a spectrum of learning problems, with particular focus on structured prediction and text generation. I derive probabilistic models guided by Bayesian perspectives, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+I persue the fundamental principles of human language through a spectrum of learning problems, with particular focus on 
+structured prediction and text generation. 
+I derive probabilistic models guided by Bayesian perspectives, equipped with modern neural architectures, utilizing 
+efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
 * NLP: Cross-lingual, Machine Translation, Natural Language Understanding.
