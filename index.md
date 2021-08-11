@@ -1,10 +1,5 @@
 ![](images/Cover.jpeg)
 
-[comment]: <> (### The Bayesian's Creed)
-
-[comment]: <> (Set the course by the star, not )
-
-### 
 _I pressed the shutter at random and captured this scene, which likes a metaphor._
 
 ---
