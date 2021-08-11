@@ -5,7 +5,7 @@ _I pressed the shutter at random and captured this scene, which likes a metaphor
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [CV](CV_FrancisYao.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [CV]()
 
 Thanks for your attention.
 
