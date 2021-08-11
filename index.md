@@ -33,19 +33,23 @@ Many topics that I'm interested in are covered by the following reading list:
 ### Papers
 * Arxiv 2021. _Bridging the Gap Between Clean Data Training and Real-World Inference for Spoken Language Understanding_. [[paper](https://arxiv.org/pdf/2104.06393.pdf)][[code](-)]
   * __Di Wu__, Liang Ding, Dachen Tao
+  
   * Using domain adaptation to bridge the gab between clean data training and online noisy inference for SLU system.
 * Arxiv 2021. _SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning_. [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
   * __Di Wu__, Liang Ding, Dachen Tao
+  
   * A lightweight word alignment model achieve better performance than fast-align while preserving comparable training speed.
 * IWSLT 2021. _The USYD-JD Speech Translation System for IWSLT2021_. [[paper](https://arxiv.org/pdf/2107.11572.pdf)][[code](-)]
   * Liang Ding, __Di Wu__, Dachen Tao
   * Winning submission out of 42 teams to Sw-En speech translation task, exceeding the 2nd place by more than 10 BLEU point.
+  
 * EMNLP 2020. _SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling_. [[paper](https://arxiv.org/pdf/2010.02693.pdf)][[code](https://github.com/moore3930/SlotRefine)]
   * __Di Wu__, Liang Ding, Fan Lu, Jian Xie
   * The first model of joint intent detection and slot filling implemented in a Non-Autoregressive fashion.
+  
 * COLING 2020.  _Localness matters: The evolved cross-attention for non-autoregressive translation_. [[paper](https://arxiv.org/pdf/2011.00770.pdf)][[code](-)]
   * Liang Ding, Longyue Wang, __Di Wu__, Dachen Tao, Zhaopeng Tu
-  * We found that modeling the localness of attention mechanism is essential to improve the performance of NAT.
+  * We found that modeling the localness of attention mechanism is essential to improve the performance of NAT. 
 
 -----
 
