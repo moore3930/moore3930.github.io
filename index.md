@@ -16,10 +16,13 @@ Baidu (2019-2020), and Microsoft (Now). I mainly focus on Natural Language Proce
 
 Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
-I persue the fundamental principles of human language through a spectrum of learning problems, with particular focus on 
-structured prediction and text generation. 
-I derive probabilistic models guided by Bayesian perspectives, equipped with modern neural architectures, utilizing 
-efficient inference, and grounded to linguistics and real-world scenarios. 
+[comment]: <> (I persue the fundamental principles of human language through a spectrum of learning problems, with particular focus on )
+
+[comment]: <> (structured prediction and text generation. )
+
+[comment]: <> (I derive probabilistic models guided by Bayesian perspectives, equipped with modern neural architectures, utilizing )
+
+[comment]: <> (efficient inference, and grounded to linguistics and real-world scenarios. )
 
 In terms of specific topics, I am interested in 
 * NLP: Cross-lingual, Machine Translation, Natural Language Understanding.
