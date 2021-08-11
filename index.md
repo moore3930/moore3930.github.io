@@ -46,6 +46,7 @@ Many topics that I'm interested in are covered by the following reading list:
 * COLING 2020.  _Localness matters: The evolved cross-attention for non-autoregressive translation_. [[paper](https://arxiv.org/pdf/2011.00770.pdf)][[code](-)]
   * Liang Ding, Longyue Wang, __Di Wu__, Dachen Tao, Zhaopeng Tu
   * We found that modeling the localness of attention mechanism is essential to improve the performance of NAT.
+
 -----
 
 ### Working Experience
