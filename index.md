@@ -1,6 +1,6 @@
 ![](images/Cover.jpeg)
 
-_I pressed the shutter at random and captured this scene, which likes a metaphor._
+_I pressed the shutter at random and captured this scene, which seems to be a metaphor.._
 
 ---
 
