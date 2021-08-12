@@ -12,9 +12,7 @@ Thanks for your attention.
 My name is Di Wu 吴迪
 
 I have three years of industrial experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
-Baidu (2019-2020), and Microsoft (Now). I mainly focus on Natural Language Processing and Computational Advertising.
-
-Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
+Baidu (2019-2020), and Microsoft (Now). Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
 [comment]: <> (I persue the fundamental principles of human language through a spectrum of learning problems, with particular focus on )
 
@@ -24,7 +22,7 @@ Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
 [comment]: <> (efficient inference, and grounded to linguistics and real-world scenarios. )
 
-In terms of specific topics, I am interested in 
+I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
 * NLP: Cross-lingual, Machine Translation, Natural Language Understanding.
 * ML: Domain Adaptation, Reinforcement Learning.
 * Data Mining: Recommendation System, Computational Advertising. 
