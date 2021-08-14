@@ -4,7 +4,6 @@ _I pressed the shutter at random and captured this scene, which seems to be a me
 
 ---
 
-
 [Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [CV]()
 
 Thanks for your attention.
@@ -14,13 +13,9 @@ My name is Di Wu 吴迪
 I have three years of industrial experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
 Baidu (2019-2020), and Microsoft (Now). Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
-[comment]: <> (I persue the fundamental principles of human language through a spectrum of learning problems, with particular focus on )
-
-[comment]: <> (structured prediction and text generation. )
-
-[comment]: <> (I derive probabilistic models guided by Bayesian perspectives, equipped with modern neural architectures, utilizing )
-
-[comment]: <> (efficient inference, and grounded to linguistics and real-world scenarios. )
+I appreciate designing the models or approaches that are driven by the intuition after capturing deep understandings of 
+specific fields, equipped with modern neural architectures, and grounded to real-world scenarios.
+The research that attracted me most is simple, insightful, and far-reaching creation, such as Word2Vec, Transformer, and BERT.
 
 I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
 * NLP: Cross-lingual, Machine Translation, Natural Language Understanding.
