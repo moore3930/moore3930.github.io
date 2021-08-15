@@ -66,17 +66,19 @@ Many topics that I'm interested in are covered by the following reading list:
 
 * Baidu, Mar 2020 - Mar 2021.
   * Be responsible for the performance of the Natural Language Understanding (NLU) module, such as the shallow 
-    semantic annotation (e.g. Slot Filling and Named Entity Recognition) and the intent detection task.
-  * SlotRefine: Designed and built a fast non-autoregressive model for joint intent detection and slot filling, 
-    named SlotRefine, which achieves great performance and efficiency (nearly 10 times faster) for the online 
-    DuerOS system. I wrote a paper based on this project, which has been published on EMNLP2020.
-  * RoSLU: Designed and built a robust flat semantic parsing (e.g. Slot Filling) system to make DuerOS be less 
-    disturbed by noise.
+    semantic annotation (e.g. Slot Filling and Named Entity Recognition) and the intent detection task for the 
+    conversational AI platform, [DuerOS](https://dueros.baidu.com/en/html/dueros/index.html).
+  * [SlotRefine](https://arxiv.org/pdf/2010.02693.pdf): Designed and built a fast non-autoregressive model for 
+    joint intent detection and slot filling, named SlotRefine, which achieves great performance and efficiency 
+    (nearly 10 times faster) for the online DuerOS system. I wrote a paper based on this project, which has been 
+    published on EMNLP2020.
+  * [RoSLU](https://arxiv.org/pdf/2104.06393.pdf): Designed and built a robust flat semantic parsing (e.g. Slot Filling) 
+    system to make DuerOS be less disturbed by noise.
 
 * Alibaba, July 2018 - Sept 2019. 
   * Matching Model: Designed and built a distributed deep learning tool, named DeepI2I, to extract item embeddings for 
-    Taobao, which is the largest e-commerce platform in China and has more than 3 billions various commodities. 
-    DeepI2I works great and helps with recommendation tasks in other subsidiaries of Alibaba.
+    [Taobao](https://world.taobao.com/), which is the largest e-commerce platform in China and has more than 3 billions 
+    various commodities. DeepI2I works great and helps with recommendation tasks in other subsidiaries of Alibaba.
   * Ranking Model: Integrated GCN technology into a transformer based CTR model to improve ranking results of 
     the recommendation system.
 
@@ -84,8 +86,8 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Internships
 * Aug 2017 - May 2018. XiaoIce team, Microsoft, Beijing. Natural Language Processing Research Intern. Beijing
-  * Dialogue Generation:Designed and built a model to give XiaoIce the ability to give diverse and 
-    controllable comments on sports news using a generation method.
+  * Dialogue Generation:Designed and built a model to give [XiaoIce](https://en.wikipedia.org/wiki/Xiaoice) 
+    the ability to give diverse and controllable comments on sports news using a generation method.
   * Conversational Recommendation: Optimized the performance of the matching and ranking module of conversational 
     recommendations on XiaoIce.
 
