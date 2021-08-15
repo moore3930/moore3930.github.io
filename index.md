@@ -16,8 +16,8 @@ Baidu (2019-2020), and Microsoft (Now). Before that, I got my M.Phil degree from
 
 
 I appreciate designing the models or approaches that are driven by the intuition after capturing deep understandings of 
-specific fields, equipped with modern neural architectures, and grounded to real-world scenarios.
-The research that attracted me most is simple, insightful, and far-reaching creation, such as Word2Vec, Transformer, and BERT.
+specific fields, equipped with modern neural architectures, and grounded to real-world scenarios. The research that 
+attracted me most is simple, insightful, and far-reaching creation or finding, such as Word2Vec, Transformer, and BERT.
 
 
 I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
