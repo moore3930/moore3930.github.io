@@ -27,8 +27,11 @@ I mainly focus on Natural Language Processing and Computational Advertising. In 
 
 
 Many topics that I'm interested in are covered by the following reading list:
-* Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
-* Compositional Generalization in Natural Language Processing. ([github](https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing))
+* Deep Generative Models for Natural Language Processing. ([github](-))
+* Compositional Generalization in Natural Language Processing. ([github](-))
+
+[comment]: <> (* Deep Generative Models for Natural Language Processing. &#40;[github]&#40;https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing&#41;&#41;)
+[comment]: <> (* Compositional Generalization in Natural Language Processing. &#40;[github]&#40;https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing&#41;&#41;)
 
 -----
 
@@ -56,14 +59,20 @@ Many topics that I'm interested in are covered by the following reading list:
 -----
 
 ### Working Experience
-* Microsoft, Mar 21 - Now.
-* Baidu, Mar 20 - Mar 21.
-* Alibaba, July 18 - Sept 19. 
+* Microsoft, Mar 2021 - Now.
+  * Design, implement modern neural architecture based models to improve the advertising effectiveness of
+    [Microsoft Audience Network](https://about.ads.microsoft.com/en-us/solutions/microsoft-audience-network), 
+    ranging from Selection to CTR.
+
+* Baidu, Mar 2020 - Mar 2021.
+  
+
+* Alibaba, July 2018 - Sept 2019. 
 
 -----
 
 ### Internships
-* Aug 17 - May 18. XiaoIce team, Microsoft, Beijing. Natural Language Processing Research Intern. Beijing
+* Aug 2017 - May 2018. XiaoIce team, Microsoft, Beijing. Natural Language Processing Research Intern. Beijing
 
 
 
