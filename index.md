@@ -21,13 +21,13 @@ attracted me most is simple, insightful, and far-reaching creation or finding, s
 
 
 I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
-* NLP: Cross-lingual, Machine Translation, Natural Language Understanding.
+* NLP: Machine Translation, Task-oriented dialogue, Cross-lingual, Spoken Language Understanding.
 * ML: Domain Adaptation, Reinforcement Learning.
-* Data Mining: Recommendation System, Computational Advertising. 
+* Data Mining: Recommendation System, Computational Advertising.
 
 
 Many topics that I'm interested in are covered by the following reading list:
-* Deep Generative Models for Natural Language Processing. ([github](-))
+* Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
 * Compositional Generalization in Natural Language Processing. ([github](-))
 
 [comment]: <> (* Deep Generative Models for Natural Language Processing. &#40;[github]&#40;https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing&#41;&#41;)
