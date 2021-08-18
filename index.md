@@ -86,7 +86,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Internships
 * Aug 2017 - May 2018. XiaoIce team, Microsoft, Beijing. NLP Research Intern. 
-  * Dialogue Generation: Designed and built a model to give [XiaoIce](https://en.wikipedia.org/wiki/Xiaoice) 
+  * Dialogue Generation: Designed and built a model to make [XiaoIce](https://en.wikipedia.org/wiki/Xiaoice) 
     the ability to give diverse and controllable comments on sports news using a generation method.
   * Conversational Recommendation: Improved the performance of the selection and ranking module of conversational 
     recommendations on XiaoIce.
