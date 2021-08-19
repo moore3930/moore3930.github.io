@@ -1,6 +1,6 @@
 ![](images/Cover.jpeg)
 
-_I accidentally pressed the shutter and caught this scene._
+_"I accidentally pressed the shutter and caught this scene."_
 
 ---
 
