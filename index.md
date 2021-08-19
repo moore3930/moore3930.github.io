@@ -1,6 +1,6 @@
 ![](images/Cover.jpeg)
 
-_I accidentally pressed the shutter and caught this scene, which seems to be a metaphor._
+_I accidentally pressed the shutter and caught this scene._
 
 ---
 
@@ -28,7 +28,7 @@ I mainly focus on Natural Language Processing and Computational Advertising. In 
 
 Many topics that I'm interested in are covered by the following reading list:
 * Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
-* Compositional Generalization in Natural Language Processing. ([github](-))
+* Machine Learning. ([github](-))
 
 [comment]: <> (* Deep Generative Models for Natural Language Processing. &#40;[github]&#40;https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing&#41;&#41;)
 [comment]: <> (* Compositional Generalization in Natural Language Processing. &#40;[github]&#40;https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing&#41;&#41;)
