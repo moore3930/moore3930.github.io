@@ -21,7 +21,7 @@ attracted me most is simple, insightful, and far-reaching creation or finding, s
 
 
 I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
-* NLP: Machine Translation, Task-oriented dialogue, Cross-lingual, Spoken Language Understanding.
+* NLP: Machine Translation, Task-oriented dialogue, Cross-lingual Representation, Spoken Language Understanding.
 * ML: Domain Adaptation, Reinforcement Learning.
 * Data Mining: Recommendation System, Computational Advertising.
 
