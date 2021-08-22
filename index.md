@@ -12,7 +12,7 @@ Thanks for your attention.
 My name is Di Wu 吴迪
 
 I have three years of industrial experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
-Baidu (2019-2020), and Microsoft (Now). Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
+Baidu (2020-2021), and Microsoft (Now). Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
 
 I appreciate designing the models or approaches that are driven by the intuition after capturing deep understandings of 
