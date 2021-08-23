@@ -37,7 +37,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Papers
 * Arxiv 2021. _Bridging the Gap Between Clean Data Training and Real-World Inference for Spoken Language Understanding_. [[paper](https://arxiv.org/pdf/2104.06393.pdf)][[code](-)]
-  * __Di Wu__, Liang Ding, Dachen Tao
+  * __Di Wu__, Liang Ding, Yiren Chen, Dachen Tao
   * Using domain adaptation to bridge the gab between clean data training and online noisy inference for SLU system.
   
 * Arxiv 2021. _SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning_. [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
