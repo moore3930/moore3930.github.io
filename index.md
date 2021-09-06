@@ -44,10 +44,10 @@ Many topics that I'm interested in are covered by the following reading list:
   * __Di Wu__, Liang Ding, Dachen Tao
   * A lightweight word alignment model achieve better performance than fast-align while preserving comparable training speed.
 
-* * EMNLP 2021. _Improving Neural Machine Translation by Bidirectional Training_. [[paper](-)][[code](-)]
+* EMNLP 2021. _Improving Neural Machine Translation by Bidirectional Training_. [[paper](-)][[code](-)]
   * Liang Ding, __Di Wu__, Dachen Tao
   * A simple and effective bidirectional training approach.
-  
+
 * IWSLT 2021. _The USYD-JD Speech Translation System for IWSLT2021_. [[paper](https://arxiv.org/pdf/2107.11572.pdf)][[code](-)]
   * Liang Ding, __Di Wu__, Dachen Tao
   * Winning submission out of 42 teams to Sw-En speech translation task, exceeding the 2nd place by more than 10 BLEU point.
