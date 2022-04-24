@@ -4,7 +4,7 @@ _I pressed the shutter at random and captured this scene._
 
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [CV]()
+[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [Galary](galary.md)
 
 Thanks for your attention.
 
