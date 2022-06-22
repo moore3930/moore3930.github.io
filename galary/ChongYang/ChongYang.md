@@ -1,3 +1,3 @@
 ![](./ChongYang-1.jpg)
 
-A lady with beauty, personality, and independence. April 2022 
+A lady with beauty, character, and independence. April 2022 
