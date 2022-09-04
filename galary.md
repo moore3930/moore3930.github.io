@@ -1,61 +1,6 @@
-![](galary/night_from_calten.jpeg)
+[Lady Yang](galary/ChongYang/ChongYang.md): _A charming lady, who lives with me since 2019 summer_.
 
-Night from Calten hill. _Impressionism_. Aug 2021 
-
-----
-
-![](galary/night_prince_st.jpeg)
-
-Night of prince street. _Impressionism_. Apr 2021 
-
-----
-![](galary/spring.jpeg)
-
-Flower trees. _Watercolor_. Apr 2021
-
-----
-
-![](galary/forth_bridge.jpeg)
-Forth bridge. Edinburgh. Feb 2021
-
-----
-
-![](galary/snow.jpeg)
-Snow city Edinburgh. Feb 2021
-
-----
-
-![](galary/xinjianglight.jpeg)
-Light snow mountain. Xinjiang. _Magic Realism_. Oct 2020
-
-
-----
-
-![](galary/xinjiangroad.jpeg)
-Road and mountain. Xinjiang. _Magic Realism_. Jul 2020
-
-----
-
-![](galary/shanghaicandy.jpeg)
-Candy color Lujiazui. Shanghai. _Manga_. Jul 2020
-
-----
-
-![](galary/yongshun.jpeg)
-Yongshun city. _Cyber Punk_. May 2020
-
-
-----
-
-![](galary/youshui.jpeg)
-Youshui river. _Magic Realism_. Jan 2020
-
-----
-
-![](galary/mtfuji.jpeg)
-Mount Fuji. Oct 2019
-
-----
-
-![](galary/space_needle.jpeg)
-Space needle. Seattle.  Jul 2019
+[Beijing](galary/Beijing/Beijing.md): _I moved to Beijing in 2015 summer for pursuing an M.Phil degree. Now (Apirl 2022),
+I have been living here for nearly seven years. As a somehow dirty, foggy, and highly competitive city with ridiculous 
+house prices, many people chose to leave here in their thirties. However, in my eyes, it is more like a city that juggles 
+with bright history, inclusive culture, and various young passions._
