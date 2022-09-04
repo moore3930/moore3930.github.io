@@ -19,7 +19,7 @@ attracted me most is simple, insightful, and far-reaching creation, such as Word
 
 I mainly focus on Natural Language Processing and more specifically Machine Translation. In terms of specific topics, I'm interested in 
 * NLP: Machine Translation, Cross-lingual NLP, Natural Language Understanding.
-* ML: Domain Adaptation, Compositional Generalization, Reinforcement Learning.
+* ML: Domain Adaptation, Compositional Generalization, Reinforcement Learning. 
 * Data Mining: Recommendation System, Computational Advertising. 
 
 Many topics that I'm interested in are covered by the following reading list:
