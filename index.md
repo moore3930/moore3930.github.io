@@ -4,24 +4,23 @@ _I pressed the shutter at random and captured this scene._
 
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [Galary](galary.md)
+[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Galary](galary.md) | [Contact](contact.md)
 
 Thanks for your attention.
 
-My name is Di Wu 吴迪
-
-I have three years of industrial experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
-Baidu (2019-2020), and Microsoft (Now). Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
+I'm Di Wu 吴迪, a first-year Phd candidate (start at Sept, 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
+at [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. I have four years of industrial experience, 
+successively engaged in algorithm-related work in Alibaba (2018-2019), Baidu (2019-2021), and Microsoft (2021-2022). 
+Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
 I appreciate designing the models or approaches that are driven by the intuition after capturing deep understandings of 
-specific fields, equipped with modern neural architectures, and grounded to real-world scenarios.
-The research that attracted me most is simple, insightful, and far-reaching creation, such as Word2Vec, Transformer, and BERT.
+specific fields, equipped with modern neural architectures, and grounded to real-world scenarios. The research that 
+attracted me most is simple, insightful, and far-reaching creation, such as Word2Vec.
 
-I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
-* NLP: Cross-lingual, Machine Translation, Natural Language Understanding.
-* ML: Domain Adaptation, Reinforcement Learning.
+I mainly focus on Natural Language Processing and more specifically Machine Translation. In terms of specific topics, I'm interested in 
+* NLP: Machine Translation, Cross-lingual NLP, Natural Language Understanding.
+* ML: Domain Adaptation, Compositional Generalization, Reinforcement Learning.
 * Data Mining: Recommendation System, Computational Advertising. 
-
 
 Many topics that I'm interested in are covered by the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
