@@ -22,27 +22,6 @@ I mainly focus on Natural Language Processing and more specifically Machine Tran
 * ML: Domain Adaptation, Compositional Generalization, Reinforcement Learning. 
 * Data Mining: Recommendation System, Computational Advertising.
 
----
-
-
-[Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Github](https://github.com/moore3930) | [CV]() | [Galary](galary.md)
-
-Thanks for your attention.
-
-My name is Di Wu 吴迪
-
-I have three years of industrial experience, successively engaged in algorithm-related work in Alibaba (2018-2019), 
-Baidu (2020-2021), and Microsoft (Now). Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
-
-
-I appreciate designing the models or approaches that are driven by intuition after capturing deep understandings of specific fields, equipped with modern neural architectures, and grounded to real-world scenarios. The research that attracted me most is simple, insightful, and far-reaching creations or findings, such as Word2Vec.
-
-
-I mainly focus on Natural Language Processing and Computational Advertising. In terms of specific topics, I am interested in 
-* NLP: Machine Translation, Task-oriented dialogue, Cross-lingual Representation, Natural Language Understanding.
-* ML: Domain Adaptation, Reinforcement Learning.
-* Data Mining: Recommendation System, Computational Advertising.
-
 Many topics that I'm interested in are covered by the following reading list:
 * Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
 * Machine Learning. ([github](-))
