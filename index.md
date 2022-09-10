@@ -26,6 +26,8 @@ Many topics that I'm interested in are covered by the following reading list:
 * Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
 * Machine Learning. ([github](-))
 
+I am always open for collaborations! 
+
 -----
 
 ### Papers
@@ -33,7 +35,7 @@ Many topics that I'm interested in are covered by the following reading list:
   * __Di Wu__, Liang Ding, Yiren Chen, Dacheng Tao
   * Using domain adaptation to bridge the gap between clean data training and online noisy inference for SLU systems.
   
-* Arxiv 2021. _SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning_. [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
+* IWSLT 2022. _SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning_. [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
   * __Di Wu__, Liang Ding, Dacheng Tao
   * A lightweight word alignment model achieve better performance than fast-align while preserving comparable training speed.
 
