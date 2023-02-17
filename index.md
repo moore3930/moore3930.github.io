@@ -10,7 +10,7 @@ Thanks for your attention.
 
 I'm Di Wu 吴迪, a first-year Phd candidate (starting in Sept 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
 at [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. I have four years of industrial experience, 
-successively engaged in algorithm-related work in Alibaba (2018-2019), Baidu (2019-2021), and Microsoft (2021-2022). 
+successively engaged in algorithm-related work in Alibaba (2018-2020), Baidu (2020-2021), and Microsoft (2021-2022). 
 Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
 
 I appreciate designing models or approaches that are driven by intuition after capturing deep understandings of specific 
@@ -31,64 +31,29 @@ I am always open to collaborations! Please feel free to contact me if you want.
 -----
 
 ### Papers
-* IWSLT 2022. _SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning_. [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
-  * __Di Wu__, Liang Ding, Dacheng Tao
-  * A lightweight word alignment model achieve better performance than fast-align while preserving comparable training speed.
+* SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
+  *  __Di Wu__, Liang Ding, Dacheng Tao, IWSLT 2022
+  * IWSLT2022, [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
 
-* EMNLP 2021. _Improving Neural Machine Translation by Bidirectional Training_. [[paper](-)][[code](-)]
+* Improving Neural Machine Translation by Bidirectional Training 
   * Liang Ding, __Di Wu__, Dacheng Tao
-  * A simple and effective bidirectional training approach.
+  * EMNLP 2021, [[paper](-)][[code](-)]
 
-* IWSLT 2021. _The USYD-JD Speech Translation System for IWSLT2021_. [[paper](https://arxiv.org/pdf/2107.11572.pdf)][[code](-)]
+* The USYD-JD Speech Translation System for IWSLT2021
   * Liang Ding, __Di Wu__, Dacheng Tao
-  * Winning submission out of 42 teams to Sw-En speech translation task, exceeding the 2nd place by more than 10 BLEU point.
+  * IWSLT 2021, [[paper](https://arxiv.org/pdf/2107.11572.pdf)][[code](-)]
   
-* Arxiv 2021. _Bridging the Gap Between Clean Data Training and Real-World Inference for Spoken Language Understanding_. [[paper](https://arxiv.org/pdf/2104.06393.pdf)][[code](-)]
+* Bridging the Gap Between Clean Data Training and Real-World Inference for Spoken Language Understanding
   * __Di Wu__, Liang Ding, Yiren Chen, Dacheng Tao
-  * Using domain adaptation to bridge the gap between clean data training and online noisy inference for SLU systems.
+  * Arxiv 2021, [[paper](https://arxiv.org/pdf/2104.06393.pdf)][[code](-)]
   
-* EMNLP 2020. _SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling_. [[paper](https://arxiv.org/pdf/2010.02693.pdf)][[code](https://github.com/moore3930/SlotRefine)]
+* SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling
   * __Di Wu__, Liang Ding, Fan Lu, Jian Xie
-  * The first model of joint intent detection and slot filling implemented in a Non-Autoregressive fashion.
+  * EMNLP 2020, [[paper](https://arxiv.org/pdf/2010.02693.pdf)][[code](https://github.com/moore3930/SlotRefine)]
   
-* COLING 2020.  _Localness matters: The evolved cross-attention for non-autoregressive translation_. [[paper](https://arxiv.org/pdf/2011.00770.pdf)][[code](-)]
+* Localness matters: The evolved cross-attention for non-autoregressive translation
   * Liang Ding, Longyue Wang, __Di Wu__, Dacheng Tao, Zhaopeng Tu
-  * We found that modeling the localness of attention mechanism is essential to improve the performance of NAT. 
-
------
-
-### Working Experience
-* Microsoft, Mar 2021 - Now.
-  * Design, implement modern neural architecture based models to improve the advertising effectiveness of
-    [Microsoft Audience Network](https://about.ads.microsoft.com/en-us/solutions/microsoft-audience-network), 
-    ranging from Selection to CTR.
-
-* Baidu, Mar 2020 - Mar 2021.
-  * Be responsible for the performance of the Natural Language Understanding (NLU) module, such as the shallow 
-    semantic annotation (e.g. Slot Filling and Named Entity Recognition) and the intent detection task for the 
-    conversational AI platform, [DuerOS](https://dueros.baidu.com/en/html/dueros/index.html).
-  * [SlotRefine](https://arxiv.org/pdf/2010.02693.pdf): Designed and built a fast non-autoregressive model for 
-    joint intent detection and slot filling, named SlotRefine, which achieves great performance and efficiency 
-    (nearly 10 times faster) for the online DuerOS system. I wrote a paper based on this project, which has been 
-    published on EMNLP2020.
-  * [RoSLU](https://arxiv.org/pdf/2104.06393.pdf): Designed and built a robust flat semantic parsing (e.g. Slot Filling) 
-    system to make DuerOS be less disturbed by noise.
-
-* Alibaba, July 2018 - Sept 2019. 
-  * Matching Model: Designed and built a distributed deep learning tool, named DeepI2I, to extract item embeddings for 
-    [Taobao](https://world.taobao.com/), which is the largest e-commerce platform in China and has more than 3 billions 
-    various commodities. DeepI2I works great and helps with recommendation tasks in other subsidiaries of Alibaba.
-  * Ranking Model: Integrated GCN technology into a transformer based CTR model to improve ranking results of 
-    the recommendation system.
-
------
-
-### Internships
-* Aug 2017 - May 2018. XiaoIce team, Microsoft, Beijing. NLP Research Intern. 
-  * Dialogue Generation: Designed and built a model to make [XiaoIce](https://en.wikipedia.org/wiki/Xiaoice) 
-    the ability to give diverse and controllable comments on sports news using a generation method.
-  * Conversational Recommendation: Improved the performance of the selection and ranking module of conversational 
-    recommendations on XiaoIce.
+  * COLING 2020, [[paper](https://arxiv.org/pdf/2011.00770.pdf)][[code](-)]
 
 
 
