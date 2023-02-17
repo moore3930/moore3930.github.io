@@ -8,3 +8,5 @@ with bright history, inclusive culture, and various young passions._
 [Amsterdam](galary/Amsterdam/Amsterdam.md): _I moved to Amsterdam in 2022 summer for pursuing Phd. This city is famous 
 for its drugs, red lights, hundreds of beautiful canals, millions of bicycles, diverse culture, disgusting winter, and 
 most lovely summer, which all make it to be a whore and a virgin at the same time._
+
+[Switzerland](galary/Switzerland/Switzerland.md): _A bonkers beautiful place that I don't know how to improve._
