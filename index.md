@@ -6,12 +6,8 @@ _I pressed the shutter at random and captured this scene._
 
 [Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Galary](galary.md) | [Contact](contact.md)
 
-Thanks for your attention.
-
-I'm Di Wu 吴迪, a first-year Phd candidate (starting in Sept 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
-at [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. I have four years of industrial experience, 
-successively engaged in algorithm-related work in Alibaba (2018-2020), Baidu (2020-2021), and Microsoft (2021-2022). 
-Before that, I got my M.Phil degree from EECS at Peking University (2015-2018).
+Hi there! I'm Di Wu 吴迪, a Phd candidate (starting in Sept 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
+at [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. 
 
 I appreciate designing models or approaches that are driven by intuition after capturing deep understandings of specific 
 fields, equipped with modern neural architectures, and grounded in real-world scenarios. The research that attracted me 
@@ -26,8 +22,8 @@ Many topics that I'm interested in are covered by the following reading list:
 * Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
 * Machine Learning. ([github](-))
 
-I am always open to collaborations! Please feel free to contact me if you want.
-
+And here are some [problems]() I really get interested in now. If you are willing to discuss some of them, leave me a message, 
+and I'm always open to collaborations, or any kind of chat.
 -----
 
 ### Papers
@@ -55,6 +51,10 @@ I am always open to collaborations! Please feel free to contact me if you want.
   * Liang Ding, Longyue Wang, __Di Wu__, Dacheng Tao, Zhaopeng Tu
   * COLING 2020, [[paper](https://arxiv.org/pdf/2011.00770.pdf)][[code](-)]
 
+
+-----
+
+Ding~ you may know me better from this [personal page](personal.md).
 
 
 
