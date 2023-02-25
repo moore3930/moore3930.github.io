@@ -8,7 +8,7 @@ you know the things that happened to me there :)
 As getting older, I can't keep all the memory clearly in my mind (easy, no amnesia), some things, views, and words really 
 matters I think, so I just lock them here:
 
-Some [whispers]() from some wisdom friends.
+Some [whispers](whispers.md) from some wise friends.
 
 What my [phd life]() looks like.
 
