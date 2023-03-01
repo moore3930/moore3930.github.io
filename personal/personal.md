@@ -10,6 +10,6 @@ matters I think, so I just lock them here:
 
 Some [whispers](whispers.md) from some wise friends.
 
-What my [phd life]() looks like.
+What my [phd life](phd_life.md) looks like.
 
 
