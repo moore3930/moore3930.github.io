@@ -22,8 +22,9 @@ Many topics that I'm interested in are covered by the following reading list:
 * Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
 * Machine Learning. ([github](-))
 
-And here are some [problems]() I really get interested in now. If you are willing to discuss some of them, leave me a message, 
-and I'm always open to collaborations, or any kind of chat.
+Here are some [problems]() I get interested in now. If you're willing to chat about them, leave me a message. I'm always 
+open to collaborations, or any kind of chat.
+
 -----
 
 ### Papers
