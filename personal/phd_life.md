@@ -3,3 +3,5 @@
 3. I was prepared to: quit smoking (although tried dozens of times yet), drink less, go back to gym, and cook for myself.
 Yes, I have a bet. 💪 (1st, March 2023)
 4. So hard to quit smoking and alcohol at the same time. 😣️ (6th, March 2023)
+5. I got covid-19, happy women's day. 🦠 (8th, March 2023)
+6. I recovered, although the sense of taste is still a bit insensitive. 😄 (15th, March 2023) 
