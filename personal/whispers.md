@@ -6,7 +6,7 @@ When I got rejected and was in pain. (one day in March, 2023)
 >
 
 When I was on the trip to Jiangsu Province and feel upset and disappointed. (3th, May 2023)
-> "Di, come on!" 
+> "Di, cheer up!" 
 >
 > -- <cite>Yiren Chen</cite>
 >
