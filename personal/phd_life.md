@@ -4,4 +4,5 @@
 Yes, I have a bet. 💪 (1st, March 2023)
 4. So hard to quit smoking and alcohol at the same time. 😣️ (6th, March 2023)
 5. I got covid-19, happy women's day. 🦠 (8th, March 2023)
-6. I recovered, although the sense of taste is still a bit insensitive. 😄 (15th, March 2023) 
+6. I recovered, although the sense of taste is still a bit insensitive. 😄 (15th, March 2023)
+7. Flew back to China (almost cried when I saw the arrival of Beijing). Had a lot of fun with my friends, but tasted the pain of insomnia, stomach ache, and relationship as well. ✈️ (28th, April 2023)

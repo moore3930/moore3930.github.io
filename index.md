@@ -56,7 +56,3 @@ open to collaborations, or any kind of chat.
 -----
 
 Ding~ you may know me better from this [personal page](personal/personal.md).
-
-
-
-

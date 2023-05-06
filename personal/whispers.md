@@ -1,6 +1,12 @@
-When I got rejected and was in pain.
+When I got rejected and was in pain. (one day in March, 2023)
 
 > "Move on. You just have to find another conference where they really appreciate your work." 
 >
 > -- <cite>Kata Naszadi</cite>
+>
+
+When I was on the trip to Jiangsu Province and feel upset and disappointed. (3th, May 2023)
+> "Di, come on!" 
+>
+> -- <cite>Yiren Chen</cite>
 >
