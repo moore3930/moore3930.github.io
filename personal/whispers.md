@@ -10,3 +10,9 @@ When I was on the trip to Jiangsu Province and feel upset and disappointed. (3th
 >
 > -- <cite>Yiren Chen</cite>
 >
+
+When I don't know how to choose. (11th, May 2023)
+> "火山旅卦" 
+>
+> -- <cite>my father</cite>
+>
