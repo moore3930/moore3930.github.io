@@ -17,7 +17,6 @@ When I don't know how to choose. (11th, May 2023)
 > -- <cite>my father</cite>
 >
 
-
 When I was running along Amsterl River. (18th, June 2023)
 > The night may fall, but dawn will always break. 
 > 
