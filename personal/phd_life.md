@@ -9,4 +9,5 @@
 9. Surprising! I no longer seem to have a problem with insomnia, finally, after years of suffering. I believe I am beginning to develop a fondness for Europe now. ❤️ (31st, May, 2023)
 10. Some feelings came back again, spreading out in my heart like ink. ☁️ (5th, July 2023)
 11. I visited Lisbon for LxMLS (summer school). A really beautiful city with a special vibe. During that time, we also finished the WMT competition (like a 3 weeks hackathon for us), finger crossed for a win. 🐟 (20th, July, 2023)
-12. It seems that I have roughly seen where my research will lead. Biggest gain of the year. 👀 (29th, July 2023)
+
+[//]: # (12. It seems that I have roughly seen where my research will lead. Biggest gain of the year. 👀 &#40;29th, July 2023&#41;)
