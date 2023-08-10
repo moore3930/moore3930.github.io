@@ -21,6 +21,6 @@ __2. Quantify Knowledge Transfer__
 
 For multilingual/multi-task systems, generally, we rely on some specific designs to encourage 
 knowledge transfer among languages/tasks, like shared vocabulary, backbone or other priors.
-We hope transfer occurs naturally following our insight-driven modeling (actually it does). 
-I am seeking to quantify the ratio of transfer or interference, moreover, to encourage 
+We hope transfer occurs naturally following our intuition-driven modeling (actually it does). 
+I am seeking to quantify the ratio of transfer or interference, moreover, to measure or encourage 
 such interactions in an explicit way.
