@@ -36,7 +36,7 @@ open to collaborations, or any kind of chat.
 ### Papers
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
   *  __Di Wu__, Christof Monz, 2023
-  * under review
+  * EMNLP2023, [[paper](https://arxiv.org/abs/2305.14189.pdf)][[code](-)]
 
 * SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
   *  __Di Wu__, Liang Ding, Dacheng Tao, IWSLT 2022
