@@ -12,8 +12,3 @@ Matterhorn, Feb 2023
 Matterhorn, Feb 2023
 
 <br/>
-
-![](./switzerland-4.jpg)
-Interlaken, Feb 2023
-
-<br/>
