@@ -14,3 +14,5 @@ most lovely summer, which all make it to be a whore and a virgin at the same tim
 [Switzerland](galary/Switzerland/Switzerland.md): _A bonkers beautiful place that I don't know how to improve._
 
 [Lisbon](galary/Lisbon/Lisbon.md): _"Onde a terra se acaba e o mar começa"_
+
+[Nice](galary/Nice/Nice.md): _"To meet you, Nice."_

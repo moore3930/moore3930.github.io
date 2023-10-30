@@ -13,13 +13,20 @@ I appreciate designing models or approaches that are driven by intuition after c
 fields, equipped with modern neural architectures, and grounded in real-world scenarios. The research that attracted me 
 most is simple, insightful, and far-reaching creations or findings, such as Word2Vec.
 
-I mainly focus on Natural Language Processing and more specifically Machine Translation. In terms of specific topics, I'm interested in 
-* NLP: Machine Translation, Cross-lingual NLP, Natural Language Understanding.
-* ML: Domain Adaptation, Compositional Generalization, Reinforcement Learning. 
-* Data Mining: Recommendation System, Computational Advertising.
+I mainly focus on Natural Language Processing and more specifically Machine Translation. 
 
-Many topics that I'm interested in are covered by the following reading list:
-* Machine Translation. ([github](https://github.com/THUNLP-MT/MT-Reading-List))
+[//]: # (In terms of specific topics, I'm interested in )
+
+[//]: # (* NLP: Machine Translation, Cross-lingual NLP, Natural Language Understanding.)
+
+[//]: # (* ML: Domain Adaptation, Compositional Generalization, Reinforcement Learning. )
+
+[//]: # (* Data Mining: Recommendation System, Computational Advertising.)
+
+[//]: # ()
+[//]: # (Many topics that I'm interested in are covered by the following reading list:)
+
+[//]: # (* Machine Translation. &#40;[github]&#40;https://github.com/THUNLP-MT/MT-Reading-List&#41;&#41;)
 
 Here are some [problems](problems/problems.md) I get interested in now. If you're willing to chat about them, leave me a message. I'm always 
 open to collaborations, or any kind of chat.

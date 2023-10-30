@@ -21,3 +21,10 @@ When I was running along Amsterl River. (18th, June 2023)
 > The night may fall, but dawn will always break. 
 > 
 > -- <cite>Qiuyi Tu</cite>
+> 
+
+When I was going to ask a ridiculous reviewer to raise the score. (25th, Aug 2023)
+> We don't do that. We don't beg for scores.
+> 
+> -- <cite>Christof</cite>
+>
