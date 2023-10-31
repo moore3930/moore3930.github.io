@@ -38,6 +38,10 @@ open to collaborations, or any kind of chat.
   *  __Di Wu__, Christof Monz, 2023
   * EMNLP2023, [[paper](https://arxiv.org/abs/2305.14189.pdf)][[code](-)]
 
+* UvA-MT's Participation in the WMT23 General Translation Shared Task
+  *  __Di Wu__, __Shaomu Tan__, David Stap, Ali Araabi, Christof Monz, 2023
+  * WMT23, Winning System, [[paper](https://arxiv.org/abs/2305.14189.pdf)][[code](-)]
+
 * SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
   *  __Di Wu__, Liang Ding, Dacheng Tao, IWSLT 2022
   * IWSLT2022, [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
