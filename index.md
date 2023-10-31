@@ -40,7 +40,7 @@ open to collaborations, or any kind of chat.
 
 * UvA-MT's Participation in the WMT23 General Translation Shared Task
   *  __Di Wu__, __Shaomu Tan__, David Stap, Ali Araabi, Christof Monz, 2023
-  * WMT23, Winning System, [[paper](https://arxiv.org/abs/2305.14189.pdf)][[code](-)]
+  * WMT23, Winning System, [[paper](https://arxiv.org/abs/2310.09946)][[code](-)]
 
 * SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
   *  __Di Wu__, Liang Ding, Dacheng Tao, IWSLT 2022
