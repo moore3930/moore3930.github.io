@@ -13,3 +13,4 @@
 13. Got a succulent plant as a gift on this day, thanks my friends. 🌵(7th, Aug 2023)
 14. I seem to be allergic to grapes (never happened before). My lips got SUPER funny, hahaha. 🍇 (12th, Aug 2023)
 15. Yes, we won the WMT game (constrained track). I love Lisbon. 🏆 (29th, Aug 2023)
+16. Winter is here. I still can’t stand winter in Amsterdam, it gives me sleepless nights and stomachaches. 😤(14th, Nov 2023)
