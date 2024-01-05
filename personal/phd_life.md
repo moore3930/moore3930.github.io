@@ -8,7 +8,7 @@
 8. Flew to Amsterdam again. All problems are solved, thanks to my dear parents, friends, and the spring of Amsterdam. ☀️ (20th, May, 2023)
 9. Surprising! I no longer seem to have a problem with insomnia, finally, after years of suffering. I believe I am beginning to develop a fondness for Europe now. ❤️ (31st, May, 2023)
 10. Some feelings came back again, spreading out in my heart like ink. ☁️ (5th, July 2023)
-11. I visited Lisbon for LxMLS (summer school). A really beautiful city with a special vibe. During that time, we also finished the WMT competition (like a 3 weeks hackathon for us), finger crossed for a win. 🐟 (20th, July, 2023)
+11. I visited Lisbon for LxMLS (summer school). A really beautiful city with a special vibe. During that time, we also finished the WMT competition (like a 3 weeks hackathon for us), finger crossed for a win. [🐟](life/11.jpg) (20th, July, 2023)
 12. I roughly see where my research will lead. Might be the biggest gain of the year. 👀 (29th, July 2023)
 13. Got a succulent plant as a gift on this day, thanks my friends. (The picture of that day is lost.) [🌵](life/13.jpg)(7th, Aug 2023)
 14. I seem to be allergic to grapes (never happened before). My lips got SUPER funny, hahaha. 🍇 (12th, Aug 2023)
