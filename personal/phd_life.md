@@ -16,3 +16,4 @@
 16. Winter is here. I still can’t stand winter in Amsterdam, it brings me sleepless nights (yes, back again) and stomachaches. [😤](life/16.jpg) (14th, Nov 2023)
 17. Waiting for the New Year in the cold wind. [🥶](life/17.jpg) (31th, Dec 2023)
 18. I endeavored to rescue the ailing plant. Hope it could be fine. [🥀](life/18.jpg) (4th, Jan 2024)
+19. Watch a really great drama - BRUSH UP LIFE! [🕊](life/19.png) (8th, Jan 2024)
