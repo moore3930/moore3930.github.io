@@ -18,4 +18,4 @@
 18. I endeavored to rescue the ailing plant. Hope it could be fine. [🥀](life/18.jpg) (4th, Jan 2024)
 19. Watch a really great drama - BRUSH UP LIFE! [🕊](life/19.png) (8th, Jan 2024)
 20. Went to Paris to see the idol of my youth, Jay Chou, in concert. [🎤](life/20.jpg) (13th, Jan 2024)
-21. I lost my camera that accompanied me for a long way in the last three years. I hate Paris theif. Here is its last shot. [📷](life/21.jpg) (15th, Jan 2024)
+21. I lost my camera that accompanied me for a long way in the last three years. I hate Paris thieves. Here is its last shot. [📷](life/21.jpg) (15th, Jan 2024)
