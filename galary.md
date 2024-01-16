@@ -16,3 +16,5 @@ most lovely summer, which all make it to be a whore and a virgin at the same tim
 [Lisbon](galary/Lisbon/Lisbon.md): _"Onde a terra se acaba e o mar começa"_
 
 [Nice](galary/Nice/Nice.md): _"To meet you, Nice."_
+
+[Pairs](galary/Pairs/Paris.md): _"Paris is a city on the earth while this earth is a star in the sky."_
