@@ -33,39 +33,26 @@ open to collaborations, or any kind of chat.
 
 -----
 
-### Papers
+### Selected Papers
+* How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
+  *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz, 2024
+  * arXiv2024, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
+
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
   *  __Di Wu__, Christof Monz, 2023
-  * EMNLP2023, [[paper](https://arxiv.org/abs/2305.14189.pdf)][[code](-)]
+  * EMNLP2023, [[PDF](https://arxiv.org/abs/2305.14189.pdf)]
 
 * UvA-MT's Participation in the WMT23 General Translation Shared Task
   *  __Di Wu__, __Shaomu Tan__, David Stap, Ali Araabi, Christof Monz, 2023
-  * WMT23, Winning System, [[paper](https://arxiv.org/abs/2310.09946)][[code](-)]
+  * WMT2023, Winning System, [[PDF](https://arxiv.org/abs/2310.09946)]
 
 * SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
   *  __Di Wu__, Liang Ding, Dacheng Tao, IWSLT 2022
-  * IWSLT2022, [[paper](https://arxiv.org/pdf/2102.04009.pdf)][[code](-)]
-
-* Improving Neural Machine Translation by Bidirectional Training 
-  * Liang Ding, __Di Wu__, Dacheng Tao
-  * EMNLP 2021, [[paper](-)][[code](-)]
-
-* The USYD-JD Speech Translation System for IWSLT2021
-  * Liang Ding, __Di Wu__, Dacheng Tao
-  * IWSLT 2021, [[paper](https://arxiv.org/pdf/2107.11572.pdf)][[code](-)]
-  
-* Bridging the Gap Between Clean Data Training and Real-World Inference for Spoken Language Understanding
-  * __Di Wu__, Liang Ding, Yiren Chen, Dacheng Tao
-  * Arxiv 2021, [[paper](https://arxiv.org/pdf/2104.06393.pdf)][[code](-)]
+  * IWSLT2022, [[PDF](https://arxiv.org/pdf/2102.04009.pdf)]
   
 * SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling
   * __Di Wu__, Liang Ding, Fan Lu, Jian Xie
-  * EMNLP 2020, [[paper](https://arxiv.org/pdf/2010.02693.pdf)][[code](https://github.com/moore3930/SlotRefine)]
-  
-* Localness matters: The evolved cross-attention for non-autoregressive translation
-  * Liang Ding, Longyue Wang, __Di Wu__, Dacheng Tao, Zhaopeng Tu
-  * COLING 2020, [[paper](https://arxiv.org/pdf/2011.00770.pdf)][[code](-)]
-
+  * EMNLP2020, [[PDF](https://arxiv.org/pdf/2010.02693.pdf)]
 
 -----
 
