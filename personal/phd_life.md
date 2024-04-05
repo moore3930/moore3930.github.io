@@ -24,4 +24,4 @@
 22. Submitted my second paper that is the one I am proud of. [📖](https://arxiv.org/pdf/2401.12413.pdf) (15th, Feb 2024)
 23. Joined Amsterdam winter school and slept over nearly all lectures. Met some new and old friends. [😪](https://amsterdam-fomo.github.io/#speakers) (12th, March 2024)
 24. Flied to Malta for EACL (vacation)! [⛱️](life/24.jpg). (17th, March 2024)
-25. Fighted against a reviewer who claimed our finding is not new yet failed to back up with any reference. Happy fool's day! [🤪](https://arxiv.org/pdf/2401.12413.pdf) (1th, April 2024)
+25. Fought against a reviewer who claimed our finding is not new yet failed to back up with any reference. Happy fool's day! [🤪](https://arxiv.org/pdf/2401.12413.pdf) (1th, April 2024)
