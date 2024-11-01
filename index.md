@@ -34,9 +34,13 @@ open to collaborations, or any kind of chat.
 -----
 
 ### Selected Papers
+* Representational Isomorphism and Alignment of Multilingual Large Language Models
+  *  __Di Wu__, __Yibin Lei__, Andrew yates, Christof Monz, 2024
+  * EMNLP2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
+
 * How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
   *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz, 2024
-  * arXiv2024, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
+  * ACL2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
 
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
   *  __Di Wu__, Christof Monz, 2023
