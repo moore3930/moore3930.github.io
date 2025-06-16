@@ -34,29 +34,25 @@ open to collaborations, or any kind of chat.
 -----
 
 ### Selected Papers
+* Calibrating Translation Decoding with Quality Estimation on LLMs
+  *  __Di Wu__, Yibin Lei, Christof Monz
+  * arXiv25, [[PDF](https://arxiv.org/pdf/2504.19044)]
+
+* Two Simple Experiments on Whether Human-Like Reasoning Helps Translation
+  * __Di Wu__, __Seth Aycock__, Christof Monz
+  * arXiv25, [[PDF]](https://arxiv.org/pdf/2506.04521v1)
+
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
-  *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz, 2024
+  *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz
   * EMNLP2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
 
 * How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
-  *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz, 2024
+  *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz
   * ACL2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
 
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
-  *  __Di Wu__, Christof Monz, 2023
+  *  __Di Wu__, Christof Monz
   * EMNLP2023, [[PDF](https://arxiv.org/abs/2305.14189.pdf)]
-
-* UvA-MT's Participation in the WMT23 General Translation Shared Task
-  *  __Di Wu__, __Shaomu Tan__, David Stap, Ali Araabi, Christof Monz, 2023
-  * WMT2023, Winning System, [[PDF](https://arxiv.org/abs/2310.09946)]
-
-* SLUA: A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
-  *  __Di Wu__, Liang Ding, Dacheng Tao, IWSLT 2022
-  * IWSLT2022, [[PDF](https://arxiv.org/pdf/2102.04009.pdf)]
-  
-* SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling
-  * __Di Wu__, Liang Ding, Fan Lu, Jian Xie
-  * EMNLP2020, [[PDF](https://arxiv.org/pdf/2010.02693.pdf)]
 
 -----
 
