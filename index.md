@@ -44,7 +44,7 @@ open to collaborations, or any kind of chat.
 
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
   *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz
-  * EMNLP2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
+  * EMNLP2024 Findings, [[PDF](https://aclanthology.org/2024.findings-emnlp.823.pdf)]
 
 * How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
   *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz
