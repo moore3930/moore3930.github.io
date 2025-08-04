@@ -22,12 +22,13 @@ open to collaborations, or any kind of chat.
 
 ### Selected Papers
 * Calibrating Translation Decoding with Quality Estimation on LLMs
-  *  __Di Wu__, Yibin Lei, Christof Monz
-  * arXiv25, [[PDF](https://arxiv.org/pdf/2504.19044)]
+  * <font color="#808080">We unify quality optimization and estimation in translation, achieving both SOTA translation
+performance and accurate quality estimation within a single model.</font>
+  * __Di Wu__, Yibin Lei, Christof Monz; arXiv25, [[PDF](https://arxiv.org/pdf/2504.19044)]
 
 * Two Simple Experiments on Whether Human-Like Reasoning Helps Translation
-  * __Di Wu__, __Seth Aycock__, Christof Monz
-  * arXiv25, [[PDF]](https://arxiv.org/pdf/2506.04521v1)
+  * <font color="#808080">We use two simple experiments to question the current trend of using CoT for translation.</font>
+  * __Di Wu__, __Seth Aycock__, Christof Monz; arXiv25, [[PDF]](https://arxiv.org/pdf/2506.04521v1)
 
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
   *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz
