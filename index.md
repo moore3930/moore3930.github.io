@@ -22,27 +22,25 @@ open to collaborations, or any kind of chat.
 
 ### Selected Papers
 * Calibrating Translation Decoding with Quality Estimation on LLMs
-  * <font color="#FFA500">We unify quality optimization and estimation in translation, achieving both SOTA translation
+  * <font color="#FFCC01">We unify quality optimization and estimation in translation, achieving both SOTA translation
 performance and accurate quality estimation within a single model.</font>
   * __Di Wu__, Yibin Lei, Christof Monz; arXiv25, [[PDF](https://arxiv.org/pdf/2504.19044)]
 
 * Two Simple Experiments on Whether Human-Like Reasoning Helps Translation
-  * <font color="#FFA500">We use two simple experiments to question the current trend of using CoT for translation.</font>
+  * <font color="#FFCC01">We use two simple experiments to question the trend of using CoT for translation.</font>
   * __Di Wu__, __Seth Aycock__, Christof Monz; arXiv25, [[PDF]](https://arxiv.org/pdf/2506.04521v1)
 
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
-  * <font color="#FFA500">We show that the representation of LLMs shares a high degree of isomorphism across lan-
-guages, providing foundations for zero- or few-shot learning for cross-lingual tasks.</font>
+  * <font color="#FFCC01">We show that the representation of LLMs shares a high degree of isomorphism across languages, providing foundations for zero- or few-shot learning for cross-lingual tasks.</font>
   *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz; EMNLP2024 Findings, [[PDF](https://aclanthology.org/2024.findings-emnlp.823.pdf)]
 
 * How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
-  * <font color="#FFA500">Pragmatic views on zero-shot translation: (1) Its potential is underestimated—tiny data brings
-big gains; (2) The off-target issue is overestimated—even a single example can resolve it.</font>
+  * <font color="#FFCC01">Pragmatic views on zero-shot translation: (1) Its potential is underestimated, tiny data brings
+big gains; (2) The off-target issue is overestimated, one single example can resolve it.</font>
   *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz; ACL2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
 
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
-  * <font color="#FFA500">We reparameterize the embedding table to overcome the barriers of writing scripts across lan-
-guages, encouraging positive knowledge transfer.</font>
+  * <font color="#FFCC01">We reparameterize the embedding table to overcome the barriers of writing scripts across languages, encouraging positive knowledge transfer.</font>
   * __Di Wu__, Christof Monz; EMNLP2023, [[PDF](https://arxiv.org/abs/2305.14189.pdf)]
 
 -----
