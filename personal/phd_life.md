@@ -42,7 +42,7 @@
 40. An old photo studio in Berlin. [📷](life/40.png) [📷](life/40-2.png) (16th, Mar 2025)
 41. The most interesting video game I experienced. [🎮](life/41.png) (21st, April 2025)
 42. The king and the little artist. [🎨](life/42.png) (26th, April 2025)
-43. Me after a urgan deadline. [🥀](life/43.png) (20th, May 2025)
+43. Me after a tight deadline. [🥀](life/43.png) (20th, May 2025)
 44. A photo together. [🤳](life/44.png) (25th, May 2025)
 45. Monet in Genoa. [🎨](life/45.png) (28th, May 2025)
 46. Old Amsterdam, old building, old friends [🏡](life/47.png) (21th, Jun 2025)
