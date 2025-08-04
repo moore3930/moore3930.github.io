@@ -31,7 +31,9 @@ performance and accurate quality estimation within a single model.</font>
   * __Di Wu__, __Seth Aycock__, Christof Monz; arXiv25, [[PDF](https://arxiv.org/pdf/2506.04521v1)]
 
 * Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?
-  * <font color="#FFCC01">We show no evidence that long-context LLMs can make use of grammatical explanations for translation, challenging the setting of </font> [[MT from One Book](https://openreview.net/pdf?id=tbVWug9f2h)].
+  * <font color="#FFCC01">We show no evidence that long-context LLMs can make use of grammatical explanations for translation, challenging the setting of 
+  <a href="https://openreview.net/pdf?id=tbVWug9f2h" style="color:#FFCC01; text-decoration:underline;">MT from One Book</a>.
+</font>
   * Seth Aycock, David Stap, __Di Wu__, Christof Monz, Khalil Sima'an; ICLR25, [[PDF](https://arxiv.org/pdf/2409.19151)]
 
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
