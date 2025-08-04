@@ -13,7 +13,7 @@ I appreciate designing models or approaches that are driven by intuition after c
 fields, equipped with modern neural architectures, and grounded in real-world scenarios. The research that attracted me 
 most is simple, insightful, and far-reaching creations or findings, such as Word2Vec.
 
-I mainly focus on Machine Translation, or more broadly, I always keep an eye on anything interesting with conditional generation.
+I mainly focus on Machine Translation, having strong interests in tokenization, quality estimation, and the knowledge transfer mechanism. Beyond translation, I am drawn to fundamental problems in NLP/ML that appear counterintuitive or conceptually puzzling.
 
 Here are some [problems](problems/problems.md) I get interested in now. If you're willing to chat about them, leave me a message. I'm always 
 open to collaborations, or any kind of chat.
