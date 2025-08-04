@@ -40,8 +40,7 @@ performance and accurate quality estimation within a single model.</font>
   *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz; EMNLP2024 Findings, [[PDF](https://aclanthology.org/2024.findings-emnlp.823.pdf)]
 
 * How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
-  * <font color="#FFCC01">Pragmatic views on zero-shot MT: (1) Its potential is underestimated, tiny data brings
-big gains; (2) The off-target issue is overestimated, one single example can resolve it.</font>
+  * <font color="#FFCC01">Pragmatic views on zero-shot MT: (1) Its potential is underestimated, tiny data brings big gains; (2) The off-target issue is overestimated, one single example can resolve it.</font>
   *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz; ACL2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
 
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
