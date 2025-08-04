@@ -30,6 +30,10 @@ performance and accurate quality estimation within a single model.</font>
   * <font color="#FFCC01">We use two simple experiments to question the trend of using CoT for translation.</font>
   * __Di Wu__, __Seth Aycock__, Christof Monz; arXiv25, [[PDF]](https://arxiv.org/pdf/2506.04521v1)
 
+* Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?
+  * * <font color="#FFCC01">We show no evidence that long-context LLMs can make use of grammatical explanations for translation, challenging the setting of Machine Translation from One Book.</font>
+  * Seth Aycock, David Stap, __Di Wu__, Christof Monz, Khalil Sima'an; ICLR25, [[PDF]](https://arxiv.org/pdf/2409.19151)
+
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
   * <font color="#FFCC01">We show that the representation of LLMs shares a high degree of isomorphism across languages, providing foundations for zero- or few-shot learning for cross-lingual tasks.</font>
   *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz; EMNLP2024 Findings, [[PDF](https://aclanthology.org/2024.findings-emnlp.823.pdf)]
