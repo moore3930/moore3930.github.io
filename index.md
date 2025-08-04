@@ -49,4 +49,4 @@ performance and accurate quality estimation within a single model.</font>
 
 -----
 
-Ding~ you may know me better from this [personal page](personal/personal.md).
+You may know me better from this [personal page](personal/personal.md).
