@@ -37,15 +37,15 @@ performance and accurate quality estimation within a single model.</font>
 
 * Representational Isomorphism and Alignment of Multilingual Large Language Models
   * <font color="#FFCC01">We show that the representation of LLMs shares a high degree of isomorphism across languages, providing foundations for zero- or few-shot learning for cross-lingual tasks.</font>
-  *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz; EMNLP2024 Findings, [[PDF](https://aclanthology.org/2024.findings-emnlp.823.pdf)]
+  *  __Di Wu__, __Yibin Lei__, Andrew Yates, Christof Monz; EMNLP24 Findings, [[PDF](https://aclanthology.org/2024.findings-emnlp.823.pdf)]
 
 * How Far can 100 Samples Go? Unlocking Zero-Shot Translation with Tiny Multi-Parallel Data
   * <font color="#FFCC01">Pragmatic views on zero-shot MT: (1) Its potential is underestimated, tiny data brings big gains; (2) The off-target issue is overestimated, one single example can resolve it.</font>
-  *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz; ACL2024 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
+  *  __Di Wu__, Shaomu Tan, Yan Meng, David Stap, Christof Monz; ACL24 Findings, [[PDF](https://arxiv.org/pdf/2401.12413.pdf)]
 
 * Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation
   * <font color="#FFCC01">We reparameterize the embedding table to overcome the barriers of writing scripts across languages, encouraging positive knowledge transfer.</font>
-  * __Di Wu__, Christof Monz; EMNLP2023, [[PDF](https://arxiv.org/abs/2305.14189.pdf)]
+  * __Di Wu__, Christof Monz; EMNLP23, [[PDF](https://arxiv.org/abs/2305.14189.pdf)]
 
 -----
 
