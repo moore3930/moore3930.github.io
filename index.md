@@ -28,7 +28,7 @@ performance and accurate quality estimation within a single model.</font>
 
 * Two Simple Experiments on Whether Human-Like Reasoning Helps Translation
   * <font color="#FFCC01">We use two simple experiments to question the trend of using CoT for translation.</font>
-  * __Di Wu__, __Seth Aycock__, Christof Monz; arXiv25, [[PDF](https://arxiv.org/pdf/2506.04521v1)]
+  * __Di Wu__, __Seth Aycock__, Christof Monz; EMNLP25, [[PDF](https://arxiv.org/pdf/2506.04521v1)]
 
 * Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?
   * <font color="#FFCC01">We show no evidence that long-context LLMs can make use of grammatical explanations for translation, challenging the setting of 

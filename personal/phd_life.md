@@ -49,3 +49,4 @@
 47. Congratulations! [🎓](life/47-1.png) (24th, Jun 2025)
 48. No rebuttal in Vienna! [🎵](life/48.png) (29th, July 2025)
 49. Bye bye Kitty. [🐱](life/49-2.png) (1st, Aug 2025)
+50. A wonderful SAIL day celebrating Amsterdam’s 750th anniversary. [⛵️](life/50.jpg) (20th, Aug 2025)
