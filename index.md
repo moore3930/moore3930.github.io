@@ -24,7 +24,7 @@ open to collaborations, or any kind of chat.
 * Calibrating Translation Decoding with Quality Estimation on LLMs
   * <font color="#FFCC01">We unify quality optimization and estimation in translation, achieving both SOTA translation
 performance and accurate quality estimation within a single model.</font>
-  * __Di Wu__, Yibin Lei, Christof Monz; arXiv25, [[PDF](https://arxiv.org/pdf/2504.19044)]
+  * __Di Wu__, Yibin Lei, Christof Monz; NeurIPS25, [[PDF](https://arxiv.org/pdf/2504.19044)]
 
 * Two Simple Experiments on Whether Human-Like Reasoning Helps Translation
   * <font color="#FFCC01">We use two simple experiments to question the trend of using CoT for translation.</font>
