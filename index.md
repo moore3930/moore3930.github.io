@@ -9,7 +9,7 @@ _I pressed the shutter at random and captured this scene._
 Hi there! I'm Di Wu 吴迪, a PhD candidate (since Sept 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
 at the [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. 
 
-I appreciate designing models and approaches that are driven by intuition and grounded in a deep understanding of a specific 
+I appreciate designing analyses and approaches that are driven by intuition and grounded in a deep understanding of a specific 
 field, equipped with modern neural architectures, and tied to real-world scenarios. The work I admire 
 most consists of simple, insightful, and far-reaching creations or findings, such as Word2Vec.
 
