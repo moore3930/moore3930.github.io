@@ -5,7 +5,7 @@ When I got rejected and was in pain. (one day in March, 2023)
 > -- <cite>Kata Naszadi</cite>
 >
 
-When I was on the trip to Jiangsu Province and feel upset and disappointed. (3th, May 2023)
+When I was on the trip to Jiangsu Province and felt upset and disappointed. (3rd, May 2023)
 > "Di, cheer up!" 
 >
 > -- <cite>Yiren Chen</cite>
@@ -17,7 +17,7 @@ When I don't know how to choose. (11th, May 2023)
 > -- <cite>my father</cite>
 >
 
-When I was running along Amsterl River. (18th, June 2023)
+When I was running along the Amstel River. (18th, June 2023)
 > The night may fall, but dawn will always break. 
 > 
 > -- <cite>Qiuyi Tu</cite>
