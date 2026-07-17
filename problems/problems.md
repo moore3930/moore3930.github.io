@@ -7,20 +7,20 @@
 __1. About Shared Vocabulary__
 
 For NLP systems, tokenization is usually the first step. To overcome the so-called "OOV" problem,
-BPE is proposed. The main idea behind BPE is to compress data only, but the benefit of 
-BPE is more than handling OOV (afterall, nothing is better than character-level tokenization
-for OOV). However, in some multilingual senarios, such as multilingual machine translation,
-things may change. Suppose that a system is trained on extremely imbalanced multilingual 
-datasets, language-agnostic tokenizer, like BPE, will place most of the vocabulary space to
-high-resource data, and split low-resource data into a sequence of characters. It is still fine if temperature 
-sampling like methods are applied. BUT, is it a really elegant solution? I have been thinking about 
-this issue from the angle of information transport, and try to answer, what is a good way to measure the 
-quality of a vocabulary in multilingual senarios and how to build it?
+BPE was proposed. The core idea behind BPE is merely to compress data, yet its benefits go beyond
+handling OOV (after all, nothing beats character-level tokenization for OOV). In some multilingual
+scenarios, such as multilingual machine translation, however, things may change. Suppose a system is
+trained on extremely imbalanced multilingual data: a language-agnostic tokenizer like BPE allocates
+most of the vocabulary to high-resource languages, while splitting low-resource ones into character
+sequences. This is tolerable when methods such as temperature sampling are applied — but is it really
+an elegant solution? I have been thinking about this from the perspective of information transport,
+trying to answer: what is a good way to measure the quality of a vocabulary in multilingual scenarios,
+and how to build one?
 
 __2. Quantify Knowledge Transfer__
 
-For multilingual/multi-task systems, generally, we rely on some specific designs to encourage 
-knowledge transfer among languages/tasks, like shared vocabulary, backbone or other priors.
-We hope transfer manifests naturally following our intuition-driven modeling (actually it does). 
-I am seeking to quantify the ratio of transfer or interplay, moreover, to measure or encourage 
-such interactions in an explicit way.
+For multilingual/multi-task systems, we generally rely on specific designs — shared vocabulary, a
+shared backbone, or other priors — to encourage knowledge transfer across languages/tasks. We hope
+such transfer emerges naturally from our intuition-driven modeling (and it does). I aim to quantify
+the degree of transfer or interplay, and further, to measure and encourage such interactions
+explicitly.
