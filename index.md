@@ -6,16 +6,16 @@ _I pressed the shutter at random and captured this scene._
 
 [Google Scholar](https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en) | [Galary](galary.md) | [Contact](contact.md)
 
-Hi there! I'm Di Wu 吴迪, a Phd candidate (starting in Sept 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
-at [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. 
+Hi there! I'm Di Wu 吴迪, a PhD candidate (since Sept 2022) under the supervision of [Christof Monz](https://staff.science.uva.nl/c.monz/)
+at the [Language Technology Lab](https://ltl.science.uva.nl/), University of Amsterdam. 
 
-I appreciate designing models or approaches that are driven by intuition after capturing deep understandings of specific 
-fields, equipped with modern neural architectures, and grounded in real-world scenarios. The research that attracted me 
-most is simple, insightful, and far-reaching creations or findings, such as Word2Vec.
+I enjoy designing models and approaches that are driven by intuition and grounded in a deep understanding of a specific 
+field, equipped with modern neural architectures, and tied to real-world scenarios. The work I admire 
+most consists of simple, insightful, and far-reaching creations or findings, such as Word2Vec.
 
 I mainly focus on Machine Translation, having strong interests in tokenization, quality estimation, and the knowledge transfer mechanism. Beyond translation, I am drawn to fundamental problems in NLP/ML that appear counterintuitive or conceptually puzzling.
 
-Here are some [problems](problems/problems.md) I get interested in now. If you're willing to chat about them, leave me a message. I'm always 
+Here are some [problems](problems/problems.md) I'm currently interested in. If you're willing to chat about them, leave me a message — I'm always 
 open to collaborations, or any kind of chat.
 
 -----
