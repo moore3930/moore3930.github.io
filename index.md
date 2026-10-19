@@ -23,7 +23,7 @@ open to collaborations, or any kind of chat.
 ### Selected Papers
 * Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation
   * <font color="#FFCC01">We explain the success of test-time scaling to the model's access to a larger target-side context from MT angle.</font>
-  * __Di Wu__, Sergey Troshin, Christof Monz, Antske Fokkens, Vlad Niculae; EMNLP26 Findings, [[PDF](https://arxiv.org/pdf/2608.28496)]
+  * __Di Wu__, __Sergey Troshin__, Christof Monz, Antske Fokkens, Vlad Niculae; EMNLP26 Findings, [[PDF](https://arxiv.org/pdf/2608.28496)]
 
 * Calibrating Translation Decoding with Quality Estimation on LLMs
   * <font color="#FFCC01">We unify quality optimization and estimation in translation, achieving both SOTA translation
